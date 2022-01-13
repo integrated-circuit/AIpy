@@ -13,7 +13,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "joussemetmathis"
           ado_project: "AIpy"
-          ado_area_path: "optional_area_path\\optional_area_path"
+          ado_area_path: "Issues\To Do"
           ado_iteration_path: "optional_iteration_path\\optional_iteration_path"
           ado_wit: "Issues"
           ado_new_state: "New"
