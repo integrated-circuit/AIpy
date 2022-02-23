@@ -9,4 +9,5 @@ It is divided in 2 sub-repositories:
 - [AIpy-GUI](https://github.com/integrated-circuit/AIpy-GUI), which contain a more complex description of the the User Interface
 - [AIpy](https://github.com/integrated-circuit/AIpy), the main repository, where all the main releases of AIpy are.
 
-Here is a link to a Kanban Board: [Board Status]![logo](https://github.com/integrated-circuit/AIpy/blob/main/t%C3%A9l%C3%A9chargement.png)(https://app.gitkraken.com/glo/board/Yb9nt4a-VQBH5uwk)
+![logo](https://github.com/integrated-circuit/AIpy/blob/main/t%C3%A9l%C3%A9chargement.png)
+Here is a link to a Kanban Board: [Board Status](https://app.gitkraken.com/glo/board/Yb9nt4a-VQBH5uwk)
