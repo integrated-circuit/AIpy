@@ -10,4 +10,5 @@ It is divided in 2 sub-repositories:
 - [AIpy](https://github.com/integrated-circuit/AIpy), the main repository, where all the main releases of AIpy are.
 
 ![logo](https://github.com/integrated-circuit/AIpy/blob/main/t%C3%A9l%C3%A9chargement.png)
+
 Here is a link to a Kanban Board: [Board Status](https://app.gitkraken.com/glo/board/Yb9nt4a-VQBH5uwk)
