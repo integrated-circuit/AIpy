@@ -3,7 +3,7 @@
 # AIpy
 
 
-AIpy is a open-source framework designed to be fully modular and upgradeable by the community. It is meant to be a cheap alternative to cobot like Baxter (https://en.wikipedia.org/wiki/Baxter_(robot)), who isn't affordable for makers. It is design to be the ultimate tool for you, in which he can use many different tools, like a laser, a grapple or a a suction cup for handeling flat object, like copper sheets or paper documents.
+AIpy is a open-source framework designed to be fully modular and upgradeable by the community. It is meant to be a cheap alternative to cobot like [Baxter](https://en.wikipedia.org/wiki/Baxter_(robot), who isn't affordable for makers. It is design to be the ultimate tool for you, in which he can use many different tools, like a laser, a grapple or a a suction cup for handeling flat object, like copper sheets or paper documents.
 
 It is divided in 2 sub-repositories:
 - [AIpy-GUI](https://github.com/integrated-circuit/AIpy-GUI), which contain a more complex description of the the User Interface
