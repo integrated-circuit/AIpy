@@ -11,7 +11,7 @@ It is divided in 3 sub-repositories:
 - [AIpy-GUI-Windows](https://github.com/integrated-circuit/AIpy-GUI-Windows), same as AIpy-GUI-Linux, but contains a release for Windows.
 - [AIpy](https://github.com/integrated-circuit/AIpy), the main repository, where all the main releases of AIpy OS and program for Raspberry pi are.
 
-# GitKraken:
+# Taiga.io:
 
 ![logo](https://github.com/integrated-circuit/AIpy/blob/main/t%C3%A9l%C3%A9chargement.png)
 
