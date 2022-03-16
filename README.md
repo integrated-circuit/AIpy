@@ -15,6 +15,6 @@ It is divided in 3 sub-repositories:
 
 ![logo](https://github.com/integrated-circuit/AIpy/blob/main/t%C3%A9l%C3%A9chargement.png)
 
-Here is a link to a Kanban Board showing the progress: [Progress Status](https://app.gitkraken.com/glo/board/Ybxq2Ya-VQBH5mfJ)
+Here is a link to a Kanban Board showing the progress: [Progress Status](https://tree.taiga.io/project/integrated-circuit-aipy-tracker/kanban)
 
-And another one showing the issues: [Issues](https://app.gitkraken.com/glo/board/Yb9nt4a-VQBH5uwk)
+
