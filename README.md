@@ -21,4 +21,4 @@ Here is a link to a Kanban Board showing the progress: [Progress Status](https:/
 
 ![logo](https://github.com/integrated-circuit/AIpy/blob/main/discord-squarelogo-1497339636473.png)
 
-If you want to add ideas and chat with us how AIpy works, here is the AIpy's Discord server:[Link](https://discord.gg/xZ3JhsUzdp)
+If you want to add ideas and chat with us how AIpy works, here is the AIpy's Discord server: [Link](https://discord.gg/xZ3JhsUzdp)
